@@ -1,1 +1,1 @@
-# BRSscreensavers
+# BRScreensavers
