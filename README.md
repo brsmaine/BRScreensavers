@@ -6,7 +6,7 @@ office-2: (HOURLY)<br>
 https://services.swpc.noaa.gov/images/animations/ovation/north/latest.jpg<br>
 https://services.swpc.noaa.gov/experimental/images/aurora_dashboard/tonights_static_viewline_forecast.png<br>
 <br>
-![alt text](https://github.com/brsmaine/BRScreensavers/blob/main/office2/LIVE/AURORAs.JPG)
+![alt text](https://github.com/brsmaine/BRScreensavers/blob/main/office-2/LIVE/AURORAs.JPG)
 <br>
 <br>
 plan-room: (HOURLY)<br>
